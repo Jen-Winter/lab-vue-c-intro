@@ -33,7 +33,7 @@
   justify-content: space-evenly;
   background-color: #39B983;
   height: 312px;
-  width: 600px;
+  width: 100%;
   padding: 1rem;
   align-items: center
 }
@@ -43,7 +43,6 @@
     flex-direction: column;
     align-items: center;
     color: black;
-    width: 200px;
     padding: 2rem
 }
 

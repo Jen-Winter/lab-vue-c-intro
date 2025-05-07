@@ -16,12 +16,11 @@
   align-items: center;
   justify-content: center;
   height: 312px;
-  width: 600px;
   color: #2B2F30;
-  width: 456px;
+  width: 100%;
   height: 299px;
   gap: 1rem;
-  margin: 4rem;
+  padding: 4rem;
 }
 
 .btn-1 {

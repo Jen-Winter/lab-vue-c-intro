@@ -19,8 +19,6 @@ import QualityComponent from './components/QualityComponent.vue'
   flex-direction: column;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   background-color: white;
-  width: 600px;
-  height: 803px;
   margin: 0;
   padding: 0;
   align-items: center;
