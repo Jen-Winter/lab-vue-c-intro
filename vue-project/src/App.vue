@@ -6,15 +6,8 @@
   </div>
 </template>
 
-<script>
-export default {
-  components: {
-    Hero,
-    QualityComponent,
-    Navigation,
-  },
-  name: 'App',
-}
+<script setup>
+
 import Navigation from './components/Navigation.vue'
 import Hero from './components/Hero.vue'
 import QualityComponent from './components/QualityComponent.vue'
