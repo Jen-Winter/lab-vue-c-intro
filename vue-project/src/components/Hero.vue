@@ -31,12 +31,24 @@
   height: 31px;
   border-radius: 13px;
   font-weight: bold;
-    font-size: 14px;
-    line-height: 20px;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 h2 {
   text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  width: 309px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #2B2F30;
+  padding-bottom: 0;
+  line-height: 40px;
 }
 
 </style>
